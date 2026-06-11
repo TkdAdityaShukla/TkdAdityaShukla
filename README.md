@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my Competitive Programming<br>🤝 I'm looking for help with project partner<br>🌱I'm currently learning Java and C++ language<br>💭Ask me about my skills and networking<br>⚡I'm a hungry coder
+🔭I'm currently working on my Competitive Programming<br>🤝 I'm looking for help with project partner<br>🌱I'm currently learning Java and Python language<br>💭Ask me about my skills and networking<br>⚡I'm a hungry coder
 
 
 ## 🌐 Socials:
